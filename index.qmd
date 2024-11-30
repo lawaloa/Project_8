@@ -27,7 +27,7 @@ execute:
 jupyter: python3
 ---
 
-![image](image.jpg)
+![](image.jpg)
 
 ## Project Overview
 
